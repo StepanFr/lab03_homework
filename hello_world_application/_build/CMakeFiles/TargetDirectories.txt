@@ -1,0 +1,9 @@
+/home/stepik/StepanFr/workspace/projects/lab03_homework/lab03/hello_world_application/_build/CMakeFiles/hello_world.dir
+/home/stepik/StepanFr/workspace/projects/lab03_homework/lab03/hello_world_application/_build/CMakeFiles/edit_cache.dir
+/home/stepik/StepanFr/workspace/projects/lab03_homework/lab03/hello_world_application/_build/CMakeFiles/rebuild_cache.dir
+/home/stepik/StepanFr/workspace/projects/lab03_homework/lab03/hello_world_application/_build/formatter_ex/CMakeFiles/formatter_ex.dir
+/home/stepik/StepanFr/workspace/projects/lab03_homework/lab03/hello_world_application/_build/formatter_ex/CMakeFiles/edit_cache.dir
+/home/stepik/StepanFr/workspace/projects/lab03_homework/lab03/hello_world_application/_build/formatter_ex/CMakeFiles/rebuild_cache.dir
+/home/stepik/StepanFr/workspace/projects/lab03_homework/lab03/hello_world_application/_build/formatter_ex/formatter/CMakeFiles/formatter.dir
+/home/stepik/StepanFr/workspace/projects/lab03_homework/lab03/hello_world_application/_build/formatter_ex/formatter/CMakeFiles/edit_cache.dir
+/home/stepik/StepanFr/workspace/projects/lab03_homework/lab03/hello_world_application/_build/formatter_ex/formatter/CMakeFiles/rebuild_cache.dir
